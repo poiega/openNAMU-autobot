@@ -1,10 +1,10 @@
-# namuplant
+# openNAMU-bot
 ![icon](/namuplant/icon.png)
 
-A GUI bot for namu.wiki
+namuplant 기반을 수정해서 만든 오픈나무에서 봇을 돌리게 해주는 프로그램 입니다.
 
-by [double-underscore](https://github.com/double-underscore)
-
+원작자(namuplant 봇 제작자님) [double-underscore](https://github.com/double-underscore)
+2차 수정자 [poiega](https://github.com/poiega)
 ## 기능
 * 리캡차를 요구하지 않는 모든 활동
     * 편집
